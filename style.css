@@ -1,7 +1,14 @@
 body {
     text-align: center;
-    color:rgb(red, green, blue);
+    color: lime;
     font-size: x-large;
     font-weight: bold;
     background: linear-gradient(90deg, blue, purple, magenta);
+}
+
+a {
+    text-align: center;
+    color: yellow;
+    font-size: x-large;
+    font-weight: bold;
 }
