@@ -3,4 +3,5 @@ body {
     color:rgb(red, green, blue);
     font-size: x-large;
     font-weight: bold;
+    background: linear-gradient(90deg, blue, purple, magenta);
 }
