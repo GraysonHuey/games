@@ -1,9 +1,9 @@
 body {
     background: linear-gradient(90deg, blue, purple, magenta);
+    text-align: center;
 }
 
 a {
-    text-align: center;
     color: yellow;
     font-size: x-large;
     font-weight: bold;
@@ -14,5 +14,10 @@ h1 {
     font-size: xx-large;
     font-weight: 900;
     text-decoration: wavy;
-    text-align: center;
+}
+
+h2 {
+    color: lime;
+    font-weight: 700;
+    text-decoration: wavy;
 }
