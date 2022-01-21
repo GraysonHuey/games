@@ -10,34 +10,32 @@ const bodyParts = document.getElementsByClassName('body-part');
 
 // List of words
 const wordList = [
-  //Music Stuff
-  'band',
-  'jazz',
-  'marching',
-  'concert'
-  'orchestra',
-  'music',
-  
-  //Sports
-  'football',
-  'basketball',
-  'soccer',
-  
-  //Education
-  'school',
-  'teacher',
-  
-  //Food Stuff
-  'food',
-  'hamburger',
-  'taco',
-  'enchilada',
-  'cake',
-  'pizza',
-  'donuts',
-  
-  //Misc
-  'idiot',
+  'market',
+  'knock',
+  'smite',
+  'windy',
+  'coin',
+  'nickel',
+  'dime',
+  'quarter',
+  'throw',
+  'silence',
+  'bluff',
+  'downfall',
+  'climb',
+  'lying',
+  'weaver',
+  'snob',
+  'kickoff',
+  'match',
+  'coat',
+  'emerald',
+  'diamond',
+  'coherent',
+  'multiple',
+  'square',
+  'circle',
+  'rectangle',
 ];
 
 // Word that is selected to play
