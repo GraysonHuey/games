@@ -17,6 +17,7 @@ const wordList = [
   'coin',
   'nickel',
   'dime',
+  'penny',
   'quarter',
   'throw',
   'silence',
